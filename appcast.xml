@@ -5,10 +5,10 @@
         <item>
             <title>2.1</title>
             <pubDate>Sun, 18 Oct 2026 11:08:25 -0700</pubDate>
-            <sparkle:version>202610181107</sparkle:version>
+            <sparkle:version>202610181121</sparkle:version>
             <sparkle:shortVersionString>2.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://darrenboling.github.io/rxreplay-updates/RX-Replay-2.1.zip" length="1624428" type="application/octet-stream" sparkle:edSignature="+iDxpsxlXr17EpszzHy3MHzpb+YOLtZH1x5zfBPi4qKH3gHvnPOT7UJSlS/NUfdr9cjgyXxtj6Mmz7c+qNpQBA=="/>
+            <enclosure url="https://darrenboling.github.io/izotope-rx-replay/RX-Replay-2.1.zip" length="1624436" type="application/octet-stream" sparkle:edSignature="5wsSpPh4to29WshIXJXD93BEjQP3ArQjft8/mRRODoWLZH4/j5jy7H+lMTMw+jsr7Kg5C/3wBIuCvT66DEcLCA=="/>
         </item>
     </channel>
 </rss>
