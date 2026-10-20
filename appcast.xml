@@ -3,6 +3,14 @@
     <channel>
         <title>RX Replay</title>
         <item>
+            <title>2.2</title>
+            <pubDate>Tue, 20 Oct 2026 05:43:24 -0700</pubDate>
+            <sparkle:version>202610200542</sparkle:version>
+            <sparkle:shortVersionString>2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://darrenboling.github.io/izotope-rx-replay/RX-Replay-2.2.zip" length="1638754" type="application/octet-stream" sparkle:edSignature="7BqSQPT21UeAkIjEwJ37Va4Tm1TcLAAAVbBRZtyqq3CFLxaQUY8einkDytBOIc3iMSMwvE7U/EFXzk9IZLaJDg=="/>
+        </item>
+        <item>
             <title>2.1</title>
             <pubDate>Sun, 18 Oct 2026 11:08:25 -0700</pubDate>
             <sparkle:version>202610181249</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>2.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure url="https://darrenboling.github.io/izotope-rx-replay/RX-Replay-2.1.zip" length="1634370" type="application/octet-stream" sparkle:edSignature="37tSjLkqcXsV8QfswfVVb7/mYOGrWtJapx58wp00fR0dELrpGEhUOl8GmzfBb3ca6ke0C6I84u7ngDXsMMWNCA=="/>
-        </item>
-        <item>
-            <title>2.1</title>
-            <pubDate>Sun, 18 Oct 2026 11:08:25 -0700</pubDate>
-            <sparkle:version>202610181137</sparkle:version>
-            <sparkle:shortVersionString>2.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://darrenboling.github.io/izotope-rx-replay/RX-Replay-2.1.zip" length="1629768" type="application/octet-stream" sparkle:edSignature="ZTcWYXTcIt7JFzcevvKApWofv+O4GK2/VN1vfmyCDNKAOmmLmIPOnty/l5w1miA4ECf0sKG7ql/t5KBwSdqWBg=="/>
         </item>
     </channel>
 </rss>
