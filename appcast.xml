@@ -3,28 +3,28 @@
     <channel>
         <title>RX Replay</title>
         <item>
-            <title>2.4.3</title>
-            <pubDate>Mon, 02 Nov 2026 09:22:31 -0800</pubDate>
-            <sparkle:version>202611020921</sparkle:version>
-            <sparkle:shortVersionString>2.4.3</sparkle:shortVersionString>
+            <title>2.5</title>
+            <pubDate>Sun, 08 Nov 2026 11:04:58 -0800</pubDate>
+            <sparkle:version>202611081103</sparkle:version>
+            <sparkle:shortVersionString>2.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://darrenboling.github.io/izotope-rx-replay/RX-Replay-2.4.3.zip" length="1696348" type="application/octet-stream" sparkle:edSignature="G9XGEJtlWC519/+wb052NI2H4LAq4RzfgmUP5yihZhZCe/4Okpp6aTS8B9tQFn7ghfxWU0I+1OBTJBAowmWSAA=="/>
+            <enclosure url="https://darrenboling.github.io/izotope-rx-replay/RX-Replay-2.5.zip" length="2084166" type="application/octet-stream" sparkle:edSignature="iAH5WCDQUXqV8f5p6xT3uRwj7mRuAJP/5vbNFCMrtOHg03ZUDJNLhXRB3wrS073P/oj8Aig5LCwUEQbYk9bRBg=="/>
         </item>
         <item>
-            <title>2.4.2</title>
-            <pubDate>Sun, 01 Nov 2026 10:23:29 -0800</pubDate>
-            <sparkle:version>202611011022</sparkle:version>
-            <sparkle:shortVersionString>2.4.2</sparkle:shortVersionString>
+            <title>2.5</title>
+            <pubDate>Sun, 08 Nov 2026 09:28:39 -0800</pubDate>
+            <sparkle:version>202611080927</sparkle:version>
+            <sparkle:shortVersionString>2.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://darrenboling.github.io/izotope-rx-replay/RX-Replay-2.4.2.zip" length="1708626" type="application/octet-stream" sparkle:edSignature="tyrEK0YAkiBY3LocbzzjNi8M+BjrQX1RRnwqaPW3gA3Uw/ak9ZN2adOwRmXOv3JuMluYO1vVoq3e2j2BJU6CCA=="/>
+            <enclosure url="https://darrenboling.github.io/izotope-rx-replay/RX-Replay-2.5.zip" length="2084172" type="application/octet-stream" sparkle:edSignature="TQ8wT+k5HSNTvhuzDP8h1WuUOjTsdBQSDbN7D0hYBGrVZDQNRJASgj9UKiiHU6ZLVxWkdkafL2pDQzS10IabAw=="/>
         </item>
         <item>
-            <title>2.4.1</title>
-            <pubDate>Fri, 30 Oct 2026 16:07:06 -0700</pubDate>
-            <sparkle:version>202610301605</sparkle:version>
-            <sparkle:shortVersionString>2.4.1</sparkle:shortVersionString>
+            <title>2.5</title>
+            <pubDate>Sun, 08 Nov 2026 07:04:14 -0800</pubDate>
+            <sparkle:version>202611080702</sparkle:version>
+            <sparkle:shortVersionString>2.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://darrenboling.github.io/izotope-rx-replay/RX-Replay-2.4.1.zip" length="1708983" type="application/octet-stream" sparkle:edSignature="OKjCduUrX7AkHAmre1mXYoK4pyIT4LuLrsRZt9loUYvFFi0fBXUe33V366UzYf1iwo5JLwIjA73zOYWvokT8DQ=="/>
+            <enclosure url="https://darrenboling.github.io/izotope-rx-replay/RX-Replay-2.5.zip" length="2084134" type="application/octet-stream" sparkle:edSignature="TYKZFhsLaCfcuQAoGDJ0fTZW1JlJs2kGGx5Gk6Z1n1X31JNoHR8aW7lv89Dub4kU4juLr3T/VUUs85kxd/rQBw=="/>
         </item>
     </channel>
 </rss>
